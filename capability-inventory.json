@@ -2,11 +2,11 @@
   "capabilities": [],
   "claims": [],
   "evidence_maturity": "architecture_only",
-  "lifecycle": "local_scaffold",
+  "lifecycle": "public_repository",
   "qualified_owned_schema_ids": [],
   "repository_name": "CIRCUIT-TECHNOLOGY",
   "source_metadata": {
     "path": "repository-domain.json",
-    "sha256": "ddee3a69c98e2adae6c50a73d706938e0682305540348ccaa6c9b131e2234720"
+    "sha256": "f16a028912b73aaa0633b3bb7716902feda070a7f2a01f2a8e6182b92121f7e0"
   }
 }

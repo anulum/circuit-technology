@@ -12,4 +12,6 @@ CIRCUIT-TECHNOLOGY — repository foundation
 
 Circuit Technology is being built as the single repository that holds semiconductor process technology profiles, four-class leaf-cell bindings, prototyping board profiles, target descriptor semantics and laboratory or cleanroom facility readiness records. No physical prototyping board is present yet. Its current executable surface is repository validation tooling. It has no installed technology-profile package, leaf-cell binder, board-profile loader or qualified facility record.
 
+Circuit Technology is part of the **SC Neuromorphic Computing Systems** group (SC-NEUROMORPHIC-COMPUTING-SYSTEMS). The [group and project map](https://github.com/anulum/sc-neurocore/blob/main/docs/ecosystem.md) shows the whole programme and where this repository sits in it.
+
 Read [Architecture](ARCHITECTURE.md), [validation tooling](validation-tooling.md), [data boundaries](THREAT_MODEL.md) and the [repository boundary decision](adr/0001-repository-boundary.md).
